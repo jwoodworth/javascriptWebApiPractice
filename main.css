@@ -1,0 +1,32 @@
+
+.ruler-section{
+    padding-left: 0em;
+    padding-right: 2em;
+}
+
+#geoloc_btn{
+   text-align: center;
+}
+
+
+.top-section{
+    margin-bottom: 3em;
+}
+.added {
+    color: chartreuse;
+    font-family: fantasy;
+    font-size: 2em;
+}
+
+.bolder {
+    background-color: yellow;
+    font-size: 1.5em;
+}
+
+.colorize {
+    background-color: coral;
+}
+
+
+
+
